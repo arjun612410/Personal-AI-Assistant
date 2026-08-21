@@ -6,7 +6,7 @@ An AI-powered interview interface trained on my resume — ask it anything you'd
 
 ## 🔗 Live Links
 
-- **Live Site:** [personal-ai-assistant-40blqqw1w-the-outliers1.vercel.app]
+- **Live Site:** [personal-ai-assistant-chi-nine.vercel.app]
 - **Backend API:** [https://personal-ai-assistant-hjbw.onrender.com]
 
 > ⚠️ Backend is hosted on Render's free tier — it may take 30–50 seconds to wake up on the first request after inactivity.
