@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://personal-ai-assistant-hjbw.onrender.com";  /*Updated this to the live Render URL */
 const STREAM_ENDPOINT = `${API_BASE}/chat/stream`;
 const FALLBACK_ENDPOINT = `${API_BASE}/chat`;
 
